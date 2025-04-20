@@ -1,0 +1,7 @@
+type,question,option1,option2,option3,option4,answer
+multiple,"請問 1 + 1 = ?",1,2,3,4,2
+multiple,"請問 2 + 2 = ?",3,4,5,6,4
+fill,"請輸入 5 - 3 的答案",,,,,2
+fill,"請輸入 10 ÷ 2 的答案",,,,,5
+fill,"請輸入 7 × 3 的答案",,,,,21
+fill,"請輸入 12 + 8 的答案",,,,,20
